@@ -1,4 +1,4 @@
-# CRUD Code Test 
+# CRUD Code  
 
 Please read each note very carefully!
 
@@ -38,4 +38,3 @@ Customer {
 - Docker-compose project that loads database service automatically which `docker-compose up`
 - Clean git commits that show the work progress.
 
-Please clone/fork this repository and share with ID: `reqteradmin` in private mode on github.com

@@ -1,0 +1,25 @@
+{
+  "name": "js-crud",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Amin Azimi",
+  "description" : "Crud-Tes Back-End API",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./src/server.js",
+    "test": "jest",
+    "start": "node ./src/server.js"
+   },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "google-libphonenumber": "^3.2.25",
+    "joi": "^17.5.0",
+    "mongoose": "^6.1.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.3",
+    "mongodb-memory-server": "^8.0.4",
+    "supertest": "^6.1.6"
+  }
+}
